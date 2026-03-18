@@ -1,0 +1,87 @@
+@import "tailwindcss";
+
+@theme {
+  /* Colores institucionales UPEM */
+  --color-guinda-50: #fdf2f4;
+  --color-guinda-100: #fce7eb;
+  --color-guinda-200: #f9d0d9;
+  --color-guinda-300: #f4a8b8;
+  --color-guinda-400: #ed7691;
+  --color-guinda-500: #e1486d;
+  --color-guinda-600: #c91d4e;
+  --color-guinda-700: #a81441;
+  --color-guinda-800: #8b123c;
+  --color-guinda-900: #761238;
+  --color-guinda-950: #42051b;
+
+  --color-verde-50: #f0fdf4;
+  --color-verde-100: #dcfce7;
+  --color-verde-200: #bbf7d0;
+  --color-verde-300: #86efac;
+  --color-verde-400: #4ade80;
+  --color-verde-500: #22c55e;
+  --color-verde-600: #16a34a;
+  --color-verde-700: #15803d;
+  --color-verde-800: #166534;
+  --color-verde-900: #14532d;
+  --color-verde-950: #052e16;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f9fafb;
+}
+
+h1 {
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+  font-weight: 700;
+  text-align: inherit;
+}
+
+h2 {
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+  font-weight: 700;
+  text-align: inherit;
+}
+
+h3 {
+  font-size: 1.5rem;
+  line-height: 2rem;
+  font-weight: 600;
+}
+
+h4 {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  font-weight: 600;
+}
+
+h5 {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+  font-weight: 600;
+}
+
+h6 {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-weight: 600;
+}
+
+p {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-weight: 400;
+}
