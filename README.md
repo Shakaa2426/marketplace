@@ -89,4 +89,4 @@ La arquitectura de la aplicación está dividida principalmente dentro de la car
 
 ## Licencia
 
-Proyecto académico - UPEM 2024. ¡Hecho para la comunidad UPEM!
+Proyecto académico - UPVM 2024. ¡Hecho para la comunidad UPVM!
