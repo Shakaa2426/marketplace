@@ -6,7 +6,7 @@
 !Supabase
 !TailwindCSS
 
-**Plataforma de compra-venta de productos de segunda mano para estudiantes de la Universidad Politécnica del Estado de México (UPEM).**
+**Plataforma de compra-venta de productos de segunda mano para estudiantes de la Universidad Politécnica del Estado de México (UPVM).**
 
 El diseño original del proyecto se encuentra disponible en Figma.
 
